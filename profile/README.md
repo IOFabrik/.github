@@ -1,8 +1,9 @@
 <div align="center">
 
-## Control Panel as a GitHub repository.
+## Control Panel as a Git Repository.
 
-#### A modern version control solution built for a plant floor 
+#### A shared source of truth for a modern organization
+Store all your control panel backups - PLC, Panel Drawings & device configurations in a single repository.
 Vendor-agnostic, zero-setup, no lock-in. 
 
 <br/>
