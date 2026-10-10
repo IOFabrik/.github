@@ -1,6 +1,6 @@
 <div align="center">
 
-## Control Panel as a Git Repository.
+## Industrial version control without another infrastructure silo.
 
 #### A shared source of truth for a modern organization
 Store all your control panel backups - PLC, Panel Drawings & device configurations in a single repository.
