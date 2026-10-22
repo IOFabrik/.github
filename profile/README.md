@@ -21,7 +21,7 @@ Vendor-agnostic, zero-setup, no lock-in.
 
 <br/><br/>
 
-**Download, Install & Run — it's free, and open source.**
+**Download, Install & Run — it's free.**
 
 
 <img src="https://img.shields.io/badge/platform-Windows-0366d6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform" />
